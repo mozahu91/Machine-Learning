@@ -1,0 +1,12 @@
+This has got all the notes of Numpy. These are course notes from Udemy lecture by Jose Portilla.
+
+When, I revise I would go in the following order: I have uploaded all the practice IPython notebooks.
+
+1. Creating Arrays: This is an introduction for how to create Arrays, Multidimensional arrays in numpy
+2. Using Arrays and Scalars: This has the use of using Scalar operations on an Array
+3. Indexing Arrays: How to index arrays, slicing
+4. Array Transposition: Transpose of a matrix, dot product
+5. Universal Array functions: Very important Array functions described.
+   Useful links: "http://docs.scipy.org/doc/numpy/reference/ufuncs.html#available-ufuncs
+6. Array Processing: Have made use of matlabplot to view on a iPython notebook.
+7. Array input and Output. How the files are saved on format.
